@@ -6,7 +6,7 @@
 
 ```
 cd ~/<your_workspace>/src
-git clone https://github.com/FantasyWilly/AESIL-tutorial.git
+git clone https://github.com/FantasyWilly/AESIL-Tutorial.git
 ```
 
 ---
