@@ -12,7 +12,7 @@ git clone https://github.com/FantasyWilly/AESIL-Tutorial.git
 ---
 ### 2. 編譯工作空間
 ```
-colon build
+colcon build
 source ~/.bashrc
 ```
 ---
