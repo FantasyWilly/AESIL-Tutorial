@@ -2,7 +2,7 @@
 
 ## <div align="center">Downloads</div>
 
-### 1. 下載至 ROS2 的工作空間
+*Step1* - 下載至 ROS2 的工作空間
 
 ```
 cd ~/<your_workspace>/src
@@ -10,8 +10,9 @@ git clone https://github.com/FantasyWilly/AESIL-Tutorial.git
 ```
 
 ---
-### 2. 編譯工作空間
+*Step2* - 編譯工作空間
 ```
+cd ~/<your_workspace>/src
 colcon build
 source ~/.bashrc
 ```
