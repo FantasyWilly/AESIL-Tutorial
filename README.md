@@ -12,7 +12,7 @@ git clone https://github.com/FantasyWilly/AESIL-Tutorial.git
 ---
 *Step2* - 編譯工作空間
 ```
-cd ~/<your_workspace>/src
+cd ~/<your_workspace>
 colcon build
 source ~/.bashrc
 ```
